@@ -1,0 +1,24 @@
+.App {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.Portlet {
+  margin-bottom: 100px;
+  border: 1px solid #000;
+}
+
+h2 {
+  margin: 0;
+}
+
+.ExamDescription {
+  padding: 20px;
+  border-bottom: 1px solid #000;
+  background: #f2f2f2;
+}
+
+.WriteHere {
+  padding: 20px;
+  background: #efe;
+}
